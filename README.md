@@ -1,5 +1,6 @@
 <!-- Banner Image -->
-<!--![ProtMind Banner](https://via.placeholder.com/1200x300.png?text=ProtMind+%7C+AI+%26+Structural+Bioinformatics)-->
+<img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/8644d7cc-61da-4690-9398-5bd6d9228c6c" />
+
 
 # 🧬 ProtMind  
 > AI-driven Structural Bioinformatics | Collaborative Research Team
